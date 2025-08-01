@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Leopy
+- 👋 Hi, I’m @Osejoro
 - 👀 I’m interested in Python Programming, Ai and Robotics.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Ethical AI and intelligent optimization. 
